@@ -1,0 +1,7 @@
+# 클릭 타입을 설정 합니다. 대부분의 타입들
+# LEFT, SHIFT_LEFT, RIGHT, SHIFT_RIGHT, MIDDLE, DOUBLE_CLICK
+click-type:
+  sell: 'RIGHT'
+  sell-more: 'SHIFT_RIGHT'
+  buy: 'LEFT'
+  buy-more: 'SHIFT_LEFT'

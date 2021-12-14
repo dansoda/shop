@@ -1,0 +1,9 @@
+name: 'test'
+line: 6
+npc: '테스트'
+confirm: false
+
+data:
+  items:
+  cost:
+  costname: '골드'

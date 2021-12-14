@@ -1,0 +1,6 @@
+name: GGanbuShop
+version: @version@
+main: kr.gganbucompany.shop.ShopPlugin
+commands:
+  상점관리:
+    permission: op
